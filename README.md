@@ -2,6 +2,7 @@
 Spring Cloud Ecoystem: Eureka, Gateway(Zuul) , Producer rest, Consumer client, Hystrix monitoring, Cicuit breaker.
 
  http://localhost:8079/producer/employee = Endpoint of Api gateway
+ 
  http://localhost:8092/employee = Endpoint of real service
 
 
